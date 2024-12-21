@@ -8,7 +8,7 @@ Highly motivated Data Analyst with a passion for transforming complex datasets i
 
 * 🌍  I'm based in Ankara, TR
 * ✉️  You can contact me at [enes@enozkn.com](mailto:enes@enozkn.com)
-* 🧠  I'm learning Tableau
+* 🧠  I'm currently working on Excel
 
 ### Skills
 
