@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst
 ------------
 
-Highly motivated Data Analyst with a passion for transforming complex datasets into actionable insights to drive business decisions. Actively seeking opportunities to leverage expertise in Excel, SQL, and Tableau to solve challenging data problems.
+Highly motivated Data Analyst with a passion for transforming complex datasets into actionable insights to drive business decisions. Actively seeking opportunities to leverage expertise in Excel, SQL, and Power BI to solve challenging data problems.
 
 * 🌍  I'm based in Ankara, TR
 * ✉️  You can contact me at [enes@enozkn.com](mailto:enes@enozkn.com)
